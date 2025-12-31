@@ -1,1 +1,1 @@
-# nato-aplhabet-proj
+demonstrates the use of catching exceptions
